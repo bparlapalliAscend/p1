@@ -1,5 +1,5 @@
 <html>
-<link rel="stylesheet" type="text/css" href="../assets/css/base.css">
+<link rel="stylesheet" type="text/css" href="css/base.css">
 
 <div class = "center">
 
@@ -9,7 +9,7 @@
 </div>
 
 <div class="benefit">
-<img src="../assets/img/bp.JPG" alt="residual self image">
+<img src="imgs/bp.JPG" alt="residual self image" height="300px" width="460px">
 </div>
 
 <div class ="benefit">
