@@ -1,0 +1,26 @@
+.center {
+	font-family: Helvetica, Arial, sans-serif;
+  display: block;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 1280px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.benefit {
+  width:30%;
+  text-align:center;
+  padding:2em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 2em auto;
+  display: inline-block;
+  vertical-align: top;
+}
