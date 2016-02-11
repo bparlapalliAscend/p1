@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <title>Bharath Parlapalli - DWA15 Portfolio</title>
@@ -10,6 +10,7 @@
 		<div class="onethird">
 				<h3>Bharath Parlapalli</h3>
 				<h5>dwa 15</h5>
+				<h5>Project 1</h5>
 		</div>
 
 		<div class="onethird">
