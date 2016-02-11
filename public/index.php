@@ -14,10 +14,11 @@
 		</div>
 
 		<div class="onethird">
-				<img src="imgs/bp.JPG" alt="residual self image">
+				<img src="imgs/bp.JPG" alt="bharath parlapalli image" title="residual self image">
 		</div>
 
 		<div class ="onethird">
+		
 			<div class="project">
 				<div class="projecttitle">Project 1</div>
 				<div class="psitelink"><a href="http://p1.bparlapalli.me">site link</a></div>
@@ -41,8 +42,7 @@
 			</div>
 			
 		</div>
-		
-		
+				
 	</div>
 </body>
 </html>
