@@ -29,7 +29,7 @@
 				<div class="psitelink">site link</div>
 				<div class="pgitlink">github link</div>
 			</div>
-				<div class="project">
+			<div class="project">
 				<div class="projecttitle">Project 3</div>
 				<div class="psitelink">site link</div>
 				<div class="pgitlink">github link</div>
