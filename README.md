@@ -1,8 +1,16 @@
 
 # Project 1
 
-### should contain my name,my pic, links to all the projects and a description of myself
 
-[project 1 site link ](http://p1.bparlapalli.me)
+### Description
+This project is to get familiar with creating local and live servers, creating a github repo as well as connecting all three using github
 
-[project 1 github link ](https://github.com/bparlapalliAscend/p1)
+ Project 1 (this project) contains a basic html, a base css file and an image file
+ 
+ The image file is big and might take longer to load if its a slower net connection. the other images I had got too pixellated.
+ 
+
+###Links:
+1 here is the [ site link ](http://p1.bparlapalli.me)
+
+2 and here is the [ screencast link ](http://screencast.com/t/Fnjngi77VA8E)
