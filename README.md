@@ -11,6 +11,6 @@ This project is to get familiar with creating local and live servers, creating a
  
 
 ###Links:
-1 here is the [ site link ](http://p1.bparlapalli.me)
+1. here is the [ site link ](http://p1.bparlapalli.me)
 
-2 and here is the [ screencast link ](http://screencast.com/t/Fnjngi77VA8E)
+2. and here is the [ screencast link ](http://screencast.com/t/Fnjngi77VA8E)
