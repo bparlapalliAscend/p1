@@ -26,8 +26,8 @@
 			</div>
 			<div class="project">
 				<div class="projecttitle">Project 2</div>
-				<div class="psitelink">site link</div>
-				<div class="pgitlink">github link</div>
+				<div class="psitelink"><a href="http://p2.bparlapalli.me">site link</a></div>
+				<div class="pgitlink"><a href="https://github.com/bparlapalliAscend/p2">github link</a></div>
 			</div>
 			<div class="project">
 				<div class="projecttitle">Project 3</div>
